@@ -6,7 +6,7 @@ To classify the quality of water based on its physicochemical properties using v
 
 INFERENCE
 
-The tried out SVM model has less accuracy (0.74) than the Random forest classifier (0.79)
+SVM and Logistic Regression are the best models, with SVM being the better of the two.
 
 METRICS OF THE PROJECT
 

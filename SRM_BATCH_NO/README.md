@@ -17,21 +17,21 @@ KNeighbors Classifier - 0.856,
 SVM - 0.8575
 
 Precision:
-Logistic regression - 0.7603
-Random Forest classifier - 0.6957
-KNeighbors Classifier - 0.7598
+Logistic regression - 0.7603,
+Random Forest classifier - 0.6957,
+KNeighbors Classifier - 0.7598,
 SVM - 0.7594
 
 F1 Score:
-Logistic regression - 0.8101
-Random Forest classifier - 0.6601
-KNeighbors Classifier - 0.8067
+Logistic regression - 0.8101,
+Random Forest classifier - 0.6601,
+KNeighbors Classifier - 0.8067,
 SVM - 0.8096
 
 Recall:
-Logistic regression - 0.8669
-Random Forest classifier - 0.6280
-KNeighbors Classifier - 0.8598
+Logistic regression - 0.8669,
+Random Forest classifier - 0.6280,
+KNeighbors Classifier - 0.8598,
 SVM - 0.8669
 
 Confusion Matrix for each model

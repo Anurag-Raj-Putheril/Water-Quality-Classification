@@ -11,9 +11,9 @@ SVM and Logistic Regression are the best models, with SVM being the better of th
 METRICS OF THE PROJECT
 
 Model accuracy: 
-Logistic regression - 0.858
-Random Forest classifier - 0.774
-KNeighbors Classifier - 0.856
+Logistic regression - 0.858,
+Random Forest classifier - 0.774,
+KNeighbors Classifier - 0.856,
 SVM - 0.8575
 
 Precision:

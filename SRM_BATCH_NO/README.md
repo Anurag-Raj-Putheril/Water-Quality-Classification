@@ -1,4 +1,5 @@
 # Water-Quality-Classification
+Anurag Raj Putheril
 
 AIM OF THE PROJECT
 

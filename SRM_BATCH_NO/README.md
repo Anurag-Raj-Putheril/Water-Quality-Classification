@@ -29,10 +29,16 @@ Random Forest classifier - 0.6601,
 KNeighbors Classifier - 0.8067,
 SVM - 0.8096
 
-Recall:
+Recall (Sensitivity):
 Logistic regression - 0.8669,
 Random Forest classifier - 0.6280,
 KNeighbors Classifier - 0.8598,
 SVM - 0.8669
+
+Specificity:
+Logistic regression - 0.8531,
+Random Forest classifier - 0.8524,
+KNeighbors Classifier - 0.8539,
+SVM - 0.8524
 
 Confusion Matrix for each model
